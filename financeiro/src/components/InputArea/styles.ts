@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const Container = styled.div`
     background-color: #FFF;
-    box-shadow: 0px 0px 5px #CCC;
+    box-shadow: 0px 0px 5px pink;
     border-radius: 10px;
     padding: 20px;
     margin-top: 20px;
@@ -24,7 +24,7 @@ export const Input = styled.input`
     width: 100%;
     height: 30px;
     padding: 0 5px;
-    border: 1px solid lightblue;
+    border: 1px solid pink;
     border-radius: 5px;
 `;
 
@@ -32,7 +32,7 @@ export const Select = styled.select`
     width: 100%;
     height: 30px;
     padding: 0 5px;
-    border: 1px solid lightblue;
+    border: 1px solid pink;
     border-radius: 5px;
 `;
 
