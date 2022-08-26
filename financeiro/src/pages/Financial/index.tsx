@@ -9,7 +9,7 @@ import { TableArea } from '../../components/TableArea';
 import { InfoArea } from '../../components/InfoArea';
 import { InputArea } from '../../components/InputArea';
 
-const FinancialManagement = () => {
+const Financial = () => {
 
   //Lista completa
   const[list, setList] = useState<Item[]>(items);
@@ -106,4 +106,4 @@ const FinancialManagement = () => {
   );
 };
 
-export default FinancialManagement;
+export default Financial;
