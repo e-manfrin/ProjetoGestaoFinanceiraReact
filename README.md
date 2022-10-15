@@ -1,5 +1,5 @@
 # Projeto 💼
-
+ 
 Repositório relativo ao Projeto dsGestaoFinanceira - Sistema Financeiro com as tecnologias envolvidas React com Typscript e Back-end C#.  
 
 ## Telas do sistema:
